@@ -21,6 +21,12 @@ https://global.ac.id/
 
 Project ini adalah aplikasi frontend mobile untuk dompet digital Skewallet, dibangun menggunakan Flutter dengan bahasa Dart. Aplikasi ini menerapkan Clean Architecture (layer data, domain, presentation) dengan BLoC pattern untuk state management, serta terintegrasi dengan Firebase dan backend Skewallet (Go) untuk proses autentikasi, OTP, dan pembayaran. Aplikasi ini juga mendukung deep link dengan aplikasi Skenaid untuk alur checkout dan pembayaran lintas aplikasi.
 
+## Link proyek lain yang terintegrasi
+- **[Backend skenaid (ecommerce)](https://github.com/KishiEdward/back-skenaid)**
+- **[Frontend skenaid (ecommerce)](https://github.com/KishiEdward/front-skenaid)**
+- **[Backend skewallet (ewallet)](https://github.com/KishiEdward/back-skewallet)**
+- **[Frontend skenaid (ewallet)](https://github.com/KishiEdward/front-skewallet)**
+
 ## Demo Video
 
 Lihat demo aplikasi dan alur fitur yang tersedia dalam video berikut.
