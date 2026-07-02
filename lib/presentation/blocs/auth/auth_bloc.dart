@@ -4,7 +4,6 @@ import '../../../domain/entities/user_entity.dart';
 import '../../../domain/usecases/auth/verify_firebase_token_usecase.dart';
 import '../../../domain/usecases/auth/get_me_usecase.dart';
 import '../../../domain/usecases/auth/logout_usecase.dart';
-import '../../../domain/usecases/auth/send_otp_usecase.dart';
 import '../../../domain/repositories/auth_repository.dart';
 import '../../../core/error/failures.dart';
 
@@ -60,7 +59,6 @@ class AuthError extends AuthState {
 
 class AuthBloc extends Bloc<AuthEvent, AuthState> {
   final VerifyFirebaseTokenUsecase _verifyToken;
-  final GetMeUsecase _getMe;
   final LogoutUsecase _logout;
   final AuthRepository _authRepo;
 
@@ -70,7 +68,6 @@ class AuthBloc extends Bloc<AuthEvent, AuthState> {
     required LogoutUsecase logout,
     required AuthRepository authRepo,
   })  : _verifyToken = verifyToken,
-        _getMe = getMe,
         _logout = logout,
         _authRepo = authRepo,
         super(AuthInitial()) {
