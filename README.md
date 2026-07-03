@@ -39,13 +39,17 @@ Lihat demo aplikasi dan alur fitur yang tersedia dalam video berikut.
 
 | <img src="assets/screenshots/1_firstview.jpg" width="250"/> | <img src="assets/screenshots/2_inputpinlogin.jpg" width="250"/> |
 | <img src="assets/screenshots/3_regis.jpg" width="250"/> | <img src="assets/screenshots/5_login.jpg" width="250"/> |
-| <img src="assets/screenshots/6_otpverif.jpg" width="250"/> |
+| <img src="assets/screenshots/6_otpverif.jpg" width="250"/> | <img src="assets/screenshots/7_dashboard.jpg" width="250"/> |
 
-**Dashboard**
+**Fitur**
 
-| <img src="assets/screenshots/1_firstview.jpg" width="250"/> | <img src="assets/screenshots/2_inputpinlogin.jpg" width="250"/> |
-| <img src="assets/screenshots/3_regis.jpg" width="250"/> | <img src="assets/screenshots/5_login.jpg" width="250"/> |
-| <img src="assets/screenshots/6_otpverif.jpg" width="250"/> |
+| <img src="assets/screenshots/8_topup.jpg" width="250"/> | <img src="assets/screenshots/9_topupsuccess.jpg" width="250"/> |
+| <img src="assets/screenshots/10_histori.jpg" width="250"/> |
+
+**Implementasi Deeplink**
+
+| <img src="assets/screenshots/11_openskewallet.jpg" width="250"/> | <img src="assets/screenshots/12_payment.jpg" width="250"/> |
+| <img src="assets/screenshots/13_paymentsuccess.jpg" width="250"/> |
 
 ## Fitur Utama
 
