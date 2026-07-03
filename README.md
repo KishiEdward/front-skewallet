@@ -33,6 +33,20 @@ Lihat demo aplikasi dan alur fitur yang tersedia dalam video berikut.
 
 **[Watch Full Demo on YouTube](https://youtu.be/nH3QIb8kl5Y?si=aauAhLBWTEnz3KKc)**
 
+### Screenshot Aplikasi
+
+**Halaman awal**
+
+| <img src="assets/screenshots/1_firstview.jpg" width="250"/> | <img src="assets/screenshots/2_inputpinlogin.jpg" width="250"/> |
+| <img src="assets/screenshots/3_regis.jpg" width="250"/> | <img src="assets/screenshots/5_login.jpg" width="250"/> |
+| <img src="assets/screenshots/6_otpverif.jpg" width="250"/> |
+
+**Dashboard**
+
+| <img src="assets/screenshots/1_firstview.jpg" width="250"/> | <img src="assets/screenshots/2_inputpinlogin.jpg" width="250"/> |
+| <img src="assets/screenshots/3_regis.jpg" width="250"/> | <img src="assets/screenshots/5_login.jpg" width="250"/> |
+| <img src="assets/screenshots/6_otpverif.jpg" width="250"/> |
+
 ## Fitur Utama
 
 - Autentikasi pengguna (login, register) dengan Firebase Authentication
