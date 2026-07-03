@@ -1,5 +1,5 @@
 class AppConstants {
-  static const String appName = 'Dompet BookStore';
+  static const String appName = 'Skewallet';
   static const String appVersion = '1.0.0';
 
   // API
